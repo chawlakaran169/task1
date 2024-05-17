@@ -1,0 +1,149 @@
+
+hr{
+ size-adjust: 5px;   
+}
+h4{
+    position: absolute;
+    right: 30px;
+    top :20%;
+}
+p{
+    position: absolute;
+    left: 45px;
+    top: 65%;
+    size: 50px;
+    font-size: 40px;
+color: whitesmoke;
+}
+p1{
+    position: absolute;
+    left: 560px;
+    top: 75%;
+    size: 50px;
+    font-size: 25px;
+color: whitesmoke;
+}
+p2{
+    position: absolute;
+    left: 870px;
+    top: 45%;
+    size: 50px;
+    font-size: 22px;
+color: whitesmoke;
+}
+p3{
+    position: absolute;
+    left: 870px;
+    top: 75%;
+    size: 50px;
+    font-size: 25px;
+color: whitesmoke;
+}
+p4{
+    position: absolute;
+    left: 1085px;
+    top: 35%;
+    size: 50px;
+    font-size: 20px;
+color: whitesmoke;
+}
+p5{
+    position: absolute;
+    left: 135px;
+    top: 85%;
+     
+}
+p6{
+    position: absolute;
+    left: 45px;
+    top: 85%;
+}
+p12{
+    position: absolute;
+    left: 545px;
+    top: 85%;
+}
+p7{
+    position: absolute;
+    left: 545px;
+    top: 88%;
+}
+p8{
+    position: absolute;
+    left: 930px;
+    top: 55%;
+}
+p9{
+    position: absolute;
+    left: 930px;
+    top: 57.5%;
+}
+p10{
+    position: absolute;
+    left:880px;
+    top: 85%;
+}
+p11{
+    position: absolute;
+    left:880px;
+    top: 87.5%;
+}
+p13{
+    position: absolute;
+    right:85px;
+    top: 42%;
+    font-size: 20px;
+}
+p14{
+    position: absolute;
+    right:175px;
+    top: 51%;
+}
+p15{
+    position: absolute;
+    right:30px;
+    top: 57%;
+    font-size: 20px;
+}
+p16{
+    position: absolute;
+    right:47px;
+    top: 73%;
+    font-size: 20px;
+}
+p17{
+    position: absolute;
+    right:80px;
+    top: 88%;
+    font-size: 20px;   
+}
+p18{
+    position: absolute;
+    right:163px;
+    top: 97%;
+}
+p19{
+    position: absolute;
+    right:176px;
+    top: 66%;
+}
+p20{
+    position: absolute;
+    right:177px;
+    top: 79.5%;
+}
+p21{
+    position: absolute;
+    left: 45px;
+    top: 68%;
+}
+p22{
+    position: absolute;
+    left: 470px;
+    top:7%;
+}
+p0{
+    position: absolute;
+    right: 230px;
+    top : 97%;
+}
